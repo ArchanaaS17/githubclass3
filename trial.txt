@@ -1,3 +1,0 @@
-First line added from git bash
-Second line added from git bash
-
